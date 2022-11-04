@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Discovering-God/static/css/main.073c9b0a.css",
-    "main.js": "/Discovering-God/static/js/main.61e54844.js",
+    "main.js": "/Discovering-God/static/js/main.302b5581.js",
     "static/js/787.6e75f935.chunk.js": "/Discovering-God/static/js/787.6e75f935.chunk.js",
     "index.html": "/Discovering-God/index.html",
     "main.073c9b0a.css.map": "/Discovering-God/static/css/main.073c9b0a.css.map",
-    "main.61e54844.js.map": "/Discovering-God/static/js/main.61e54844.js.map",
+    "main.302b5581.js.map": "/Discovering-God/static/js/main.302b5581.js.map",
     "787.6e75f935.chunk.js.map": "/Discovering-God/static/js/787.6e75f935.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.61e54844.js"
+    "static/js/main.302b5581.js"
   ]
 }
