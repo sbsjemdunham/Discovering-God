@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Discovering-God/static/css/main.073c9b0a.css",
-    "main.js": "/Discovering-God/static/js/main.4665628a.js",
+    "main.css": "/Discovering-God/static/css/main.108a047f.css",
+    "main.js": "/Discovering-God/static/js/main.368b97c2.js",
     "static/js/787.6e75f935.chunk.js": "/Discovering-God/static/js/787.6e75f935.chunk.js",
+    "static/media/PDF-Download.jpg": "/Discovering-God/static/media/PDF-Download.db6f7c86bbe55f42680f.jpg",
     "index.html": "/Discovering-God/index.html",
-    "main.073c9b0a.css.map": "/Discovering-God/static/css/main.073c9b0a.css.map",
-    "main.4665628a.js.map": "/Discovering-God/static/js/main.4665628a.js.map",
+    "main.108a047f.css.map": "/Discovering-God/static/css/main.108a047f.css.map",
+    "main.368b97c2.js.map": "/Discovering-God/static/js/main.368b97c2.js.map",
     "787.6e75f935.chunk.js.map": "/Discovering-God/static/js/787.6e75f935.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4665628a.js"
+    "static/css/main.108a047f.css",
+    "static/js/main.368b97c2.js"
   ]
 }
